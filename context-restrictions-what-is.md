@@ -217,6 +217,7 @@ You can create context-based restrictions for the following services if you are 
 | [{{site.data.keyword.secrets-manager_short}}](/docs/secrets-manager?topic=secrets-manager-access-control-cbr) | IAM-enabled | No | `secrets-manager` |
 | [{{site.data.keyword.tg_short}}](/docs/transit-gateway?topic=transit-gateway-cbr) | IAM-enabled | No | `transit` |
 | [{{site.data.keyword.vpc_full}}](/docs/vpc?topic=vpc-cbr) | IAM-enabled | No | `is` |
+| [{{site.data.keyword.dns_short}}](/docs/dns-svcs?topic=dns-svcs-cbr) | IAM-enabled | No | `dns-svcs`|
 {: caption="Table 4. Services that are compatible with context-based restrictions." caption-side="top"}
 
 
